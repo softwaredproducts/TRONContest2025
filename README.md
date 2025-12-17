@@ -26,6 +26,7 @@ TRONプログラミングコンテスト2025のRTOSアプリケーション　�
 
 ## ファイル・フォルダ構成
 - operation_manual.pdf : 簡単な使い方の説明
+- Kikenyochi4_sekiya_jp.pptx: [プレゼンに使った資料の更新版](Kikenyochi4_sekiya_jp.pptx)
 - microbit        : micro:bitのuT-Kernel用プログラム
 - xiao_esp32c3    : Seeed Xiao ESP32C3用プログラム
 - LICENSE         : ライセンス
